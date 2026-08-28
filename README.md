@@ -8,6 +8,7 @@ Pra executar qualquer programa, é só ir em sua respectiva pasta e rodar `pytho
 ## Os projetos
 
 1. Calculadora
+
 Uma calculadora básica com soma, subtração, multiplicação e divisão. Você digita dois números e escolhe a operação pelo menu.
 
 ---
