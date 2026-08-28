@@ -1,7 +1,7 @@
 # Atividades Python
 
 Quatro programas simples que rodam no terminal.
-Pra executar qualquer programa, é só ir em sua respectiva pasta e rodar `python nome_do_arquivo.py`.
+Pra executar qualquer programa, é só ir em sua respectiva pasta e rodar "python nome_do_arquivo.py".
 
 ---
 
@@ -9,7 +9,7 @@ Pra executar qualquer programa, é só ir em sua respectiva pasta e rodar `pytho
 
 1. Calculadora
 
-Uma calculadora básica com soma, subtração, multiplicação e divisão. Você digita dois números e escolhe a operação pelo menu.
+Uma calculadora básica com soma, subtração, multiplicação e divisão. Você digita dois números e escolhe a operação.
 
 ---
 
