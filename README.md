@@ -15,7 +15,7 @@ Uma calculadora básica com soma, subtração, multiplicação e divisão. Você
 
 2. Biblioteca de Usuários
 
-Cadastra uma lista de nomes; então, pode pesquiasr por nomes específicos.
+Cadastra uma lista de nomes; então, pode pesquisar por nomes específicos.
 
 - Cadastre os 5 usuários
 - Se você deixar o campo vazio, ele simplesmente pula aquele usuário
